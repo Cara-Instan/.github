@@ -24,7 +24,7 @@ CaraInstan provides **instant solutions** that anyone can use, built with a stri
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **`ci-pdf-utility`** | Instant, secure client-side PDF merging, splitting, and compressing. | JavaScript / WebAssembly | 🛠️ In Development |
+| **`trace.`** | Instant, secure running on your local side for PDF merging, splitting, and compressing. | Electrobun + Vue | 🛠️ In Development |
 | *(More coming soon!)* | Got an idea for an instant utility? Open an issue! | — | 💡 Planning |
 
 ---
